@@ -2,3 +2,5 @@ ddpm_env/
 .idea/
 .vscode/
 *.egg-info/
+xray_models/
+work/
