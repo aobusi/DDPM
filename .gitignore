@@ -4,3 +4,4 @@ ddpm_env/
 *.egg-info/
 xray_models/
 work/
+models/
