@@ -5,3 +5,4 @@ ddpm_env/
 xray_models/
 work/
 models/
+.ipynb_checkpoints/
